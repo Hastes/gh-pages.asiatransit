@@ -1,0 +1,154 @@
+{
+  "cars": [
+    {
+      "id": "3",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP8",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "eHEV Spada",
+      "priceJPY": 2600000,
+      "priceRUB": 1510600,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRPZXTbzAJkWbsJ20VPM7Z8xG18oWnweFCTEr6C",
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRPZXTbzAJkWbsJ20VPM7Z8xG18oWnweIqwFpQD",
+        "https://8.ajes.com/imgs/kQoy77YKmh3oXjRYsAsA28g4CW0B3Dy62iNpFqPd6Hv3wm5K3jT"
+      ],
+      "condition": "S",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "ЧЕРНЫЙ",
+      "location": "",
+      "auctionDate": "25.04.2025 [11:06]",
+      "auctionLink": "https://auc.idubid.com/aj-3.htm"
+    },
+    {
+      "id": "7",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP8",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "e:HEV Spada",
+      "priceJPY": 2580000,
+      "priceRUB": 1498980,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/22OpXdDOe5zMTTqomX8Uo8ODULFIZHkXdQ2JPPPN7lVtT8Zh",
+        "https://8.ajes.com/imgs/22OpXdDOe5zMTTqomX8Uo8ODULFIZHkXdQ2JPPPN7olXzjjm",
+        "https://8.ajes.com/imgs/22OpXdDOe5zNJOeYYvoElOMcaUg2f5imkuy70TOpf57dGG0x"
+      ],
+      "condition": "S",
+      "transmission": "IAT",
+      "fuelType": "Unknown",
+      "color": "ЧЕРНЫЙ",
+      "location": "",
+      "auctionDate": "24.04.2025 [13:27]",
+      "auctionLink": "https://auc.idubid.com/aj-7.htm"
+    },
+    {
+      "id": "13",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP8",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "e:HEV Premium Line",
+      "priceJPY": 2980000,
+      "priceRUB": 1731380,
+      "features": [
+        "WAAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztOxc0Wc7s2JMZvlzQ7HcBBbQhgkpd",
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztOxc0Wc7s2JMZvlzQ7T6VPgdsjql5",
+        "https://8.ajes.com/imgs/kQoy77YKmh3oXjKUVQfZrXoVYFAw5OakE7Fnl1xUOWhaHIJ8Oey"
+      ],
+      "condition": "S",
+      "transmission": "IAT",
+      "fuelType": "Unknown",
+      "color": "БЕЛЫЙ",
+      "location": "",
+      "auctionDate": "24.04.2025 [13:04]",
+      "auctionLink": "https://auc.idubid.com/aj-13.htm"
+    },
+    {
+      "id": "18",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP6",
+      "year": "2024",
+      "mileage": 0,
+      "complectation": "Premium Line",
+      "priceJPY": 2500000,
+      "priceRUB": 1452500,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztOGlG5eHnzxi1JlPtSK8VXNIDYOEH",
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztOGlG5eHnzxi1JlPtSW2gbS6P2UAy",
+        "https://8.ajes.com/imgs/kQoy77YKmh3oXjKUVQfZrXoW8P7E8p6SrBGBlgbGRRBxjB6Qiu3"
+      ],
+      "condition": "4.5",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "ЧЕРНЫЙ",
+      "location": "",
+      "auctionDate": "24.04.2025 [13:08]",
+      "auctionLink": "https://auc.idubid.com/aj-18.htm"
+    },
+    {
+      "id": "11",
+      "brand": "HONDA",
+      "model": "VEZEL RV5",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "e:HEV Z",
+      "priceJPY": 2400000,
+      "priceRUB": 1394400,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztO9MMg6bjfjzgs5ac4NWxZ4VfyS2w",
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztO9MMg6bjfjzgs5ac4ZPSd9iqBXXn",
+        "https://8.ajes.com/imgs/kQoy77YKmh3oXjKUVQfZrXoVAgcPXT2ydSWk4ATRVGdyzNHqlQR"
+      ],
+      "condition": "S",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "СИНИЙ",
+      "location": "",
+      "auctionDate": "26.04.2025 [10:55]",
+      "auctionLink": "https://auc.idubid.com/aj-11.htm"
+    },
+    {
+      "id": "16",
+      "brand": "HONDA",
+      "model": "VEZEL RV5",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "e:HEV Z",
+      "priceJPY": 2400000,
+      "priceRUB": 1394400,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztO9MMg6bjfjzgs5bqDHUGj3X7iFmQ",
+        "https://8.ajes.com/imgs/kQoy77YKmh38ZRIWr9YZ2ztO9MMg6bjfjzgs5bqDTO1x8khlLiH",
+        "https://8.ajes.com/imgs/kQoy77YKmh3oXjKUVQfZrXoVAgcPXT2ydSWk4C9rPElSyPya0cb"
+      ],
+      "condition": "S",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "ЗЕЛЕНЫЙ",
+      "location": "",
+      "auctionDate": "26.04.2025 [10:55]",
+      "auctionLink": "https://auc.idubid.com/aj-16.htm"
+    }
+  ]
+}
