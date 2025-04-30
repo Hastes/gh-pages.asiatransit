@@ -157,14 +157,14 @@
       "auctionId": "20240"
     },
     {
-      "id": "3",
+      "id": "6",
       "brand": "HONDA",
       "model": "STEP WAGON RP6",
       "year": "2024",
       "mileage": 0,
       "complectation": "Spada",
       "priceJPY": 2250000,
-      "priceRUB": 1298250,
+      "priceRUB": 1293750,
       "features": [
         "AC"
       ],
@@ -176,10 +176,10 @@
       "condition": "6",
       "transmission": "DAT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
-      "auctionDate": "30.04.2025",
-      "auctionLink": "https://auc.idubid.com/aj-3.htm",
+      "auctionDate": "30.04.2025 [12:50]",
+      "auctionLink": "https://auc.idubid.com/aj-6.htm",
       "auctionId": "70031"
     },
     {
@@ -209,14 +209,14 @@
       "auctionId": "80055"
     },
     {
-      "id": "5",
+      "id": "7",
       "brand": "HONDA",
       "model": "STEP WAGON RP8",
       "year": "2023",
       "mileage": 0,
       "complectation": "e:HEV Spada Premium Line",
       "priceJPY": 2790000,
-      "priceRUB": 1609830,
+      "priceRUB": 1604250,
       "features": [
         "AC"
       ],
@@ -228,10 +228,10 @@
       "condition": "6",
       "transmission": "DAT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
-      "auctionDate": "30.04.2025",
-      "auctionLink": "https://auc.idubid.com/aj-5.htm",
+      "auctionDate": "30.04.2025 [13:04]",
+      "auctionLink": "https://auc.idubid.com/aj-7.htm",
       "auctionId": "70091"
     },
     {
@@ -261,14 +261,14 @@
       "auctionId": "2020"
     },
     {
-      "id": "7",
+      "id": "9",
       "brand": "HONDA",
       "model": "STEP WAGON RP8",
       "year": "2022",
       "mileage": 0,
       "complectation": "e:HEV Spada Premium Line",
       "priceJPY": 2500000,
-      "priceRUB": 1442500,
+      "priceRUB": 1437500,
       "features": [
         "AAC"
       ],
@@ -280,21 +280,21 @@
       "condition": "4.5",
       "transmission": "IAT",
       "fuelType": "Unknown",
-      "color": "ЧЕРНЫЙ",
+      "color": "BLACK",
       "location": "",
       "auctionDate": "13.05.2025",
-      "auctionLink": "https://auc.idubid.com/aj-7.htm",
+      "auctionLink": "https://auc.idubid.com/aj-9.htm",
       "auctionId": "40088"
     },
     {
-      "id": "8",
+      "id": "10",
       "brand": "HONDA",
       "model": "STEP WAGON RP8",
       "year": "2022",
       "mileage": 0,
       "complectation": "e:HEV Spada Premium Line",
       "priceJPY": 2200000,
-      "priceRUB": 1269400,
+      "priceRUB": 1265000,
       "features": [
         "AAC"
       ],
@@ -306,10 +306,10 @@
       "condition": "4",
       "transmission": "IAT",
       "fuelType": "Unknown",
-      "color": "ЧЕРНЫЙ",
+      "color": "BLACK",
       "location": "",
       "auctionDate": "08.05.2025",
-      "auctionLink": "https://auc.idubid.com/aj-8.htm",
+      "auctionLink": "https://auc.idubid.com/aj-10.htm",
       "auctionId": "2033"
     },
     {
@@ -339,14 +339,14 @@
       "auctionId": "2202"
     },
     {
-      "id": "10",
+      "id": "11",
       "brand": "HONDA",
       "model": "STEP WAGON RP6",
       "year": "2022",
       "mileage": 0,
       "complectation": "Spada Premium Line",
       "priceJPY": 2720000,
-      "priceRUB": 1569440,
+      "priceRUB": 1564000,
       "features": [
         "AAC"
       ],
@@ -358,21 +358,21 @@
       "condition": "5",
       "transmission": "AT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
       "auctionDate": "30.04.2025 [10:28]",
-      "auctionLink": "https://auc.idubid.com/aj-10.htm",
+      "auctionLink": "https://auc.idubid.com/aj-11.htm",
       "auctionId": "30057"
     },
     {
-      "id": "11",
+      "id": "13",
       "brand": "HONDA",
       "model": "STEP WAGON RP3",
       "year": "2022",
       "mileage": 0,
       "complectation": "Spada Cool Spirit Honda Sensing",
       "priceJPY": 2400000,
-      "priceRUB": 1384800,
+      "priceRUB": 1380000,
       "features": [
         "AAC"
       ],
@@ -384,21 +384,21 @@
       "condition": "4.5",
       "transmission": "IAT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
       "auctionDate": "30.04.2025 [11:37]",
-      "auctionLink": "https://auc.idubid.com/aj-11.htm",
+      "auctionLink": "https://auc.idubid.com/aj-13.htm",
       "auctionId": "30195"
     },
     {
-      "id": "12",
+      "id": "14",
       "brand": "HONDA",
       "model": "STEP WAGON RP6",
       "year": "2022",
       "mileage": 0,
       "complectation": "Spada",
       "priceJPY": 2560000,
-      "priceRUB": 1477120,
+      "priceRUB": 1472000,
       "features": [
         "AAC"
       ],
@@ -410,10 +410,10 @@
       "condition": "4.5",
       "transmission": "AT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
       "auctionDate": "30.04.2025 [10:10]",
-      "auctionLink": "https://auc.idubid.com/aj-12.htm",
+      "auctionLink": "https://auc.idubid.com/aj-14.htm",
       "auctionId": "30021"
     },
     {
@@ -443,14 +443,14 @@
       "auctionId": "111"
     },
     {
-      "id": "14",
+      "id": "16",
       "brand": "HONDA",
       "model": "STEP WAGON RP3",
       "year": "2022",
       "mileage": 0,
       "complectation": "Spada Honda Sensing",
       "priceJPY": 1890000,
-      "priceRUB": 1090530,
+      "priceRUB": 1086750,
       "features": [
         "AAC"
       ],
@@ -462,10 +462,10 @@
       "condition": "4",
       "transmission": "AT",
       "fuelType": "Unknown",
-      "color": "ЧЕРНЫЙ",
+      "color": "BLACK",
       "location": "",
       "auctionDate": "30.04.2025 [10:49]",
-      "auctionLink": "https://auc.idubid.com/aj-14.htm",
+      "auctionLink": "https://auc.idubid.com/aj-16.htm",
       "auctionId": "30100"
     },
     {
@@ -476,7 +476,7 @@
       "mileage": 0,
       "complectation": "ｴｱ",
       "priceJPY": 2120000,
-      "priceRUB": 1223240,
+      "priceRUB": 1219000,
       "features": [
         "AAC"
       ],
@@ -488,21 +488,21 @@
       "condition": "4.5",
       "transmission": "AT",
       "fuelType": "Unknown",
-      "color": "ЧЕРНЫЙ",
+      "color": "BLACK",
       "location": "",
       "auctionDate": "30.04.2025 [10:15]",
       "auctionLink": "https://auc.idubid.com/aj-15.htm",
       "auctionId": "30031"
     },
     {
-      "id": "16",
+      "id": "17",
       "brand": "HONDA",
       "model": "STEP WAGON RP3",
       "year": "2022",
       "mileage": 0,
       "complectation": "Spada Cool Spirit Honda Sensing",
       "priceJPY": 2320000,
-      "priceRUB": 1338640,
+      "priceRUB": 1334000,
       "features": [
         "AAC"
       ],
@@ -514,10 +514,10 @@
       "condition": "4.5",
       "transmission": "AT",
       "fuelType": "Unknown",
-      "color": "СЕРЫЙ",
+      "color": "GREY",
       "location": "",
       "auctionDate": "30.04.2025 [10:30]",
-      "auctionLink": "https://auc.idubid.com/aj-16.htm",
+      "auctionLink": "https://auc.idubid.com/aj-17.htm",
       "auctionId": "30061"
     },
     {
@@ -573,14 +573,14 @@
       "auctionId": "30184"
     },
     {
-      "id": "0",
+      "id": "2",
       "brand": "HONDA",
       "model": "VEZEL RV5",
       "year": "2025",
       "mileage": 0,
       "complectation": "e:HEV Z PLaY Package",
       "priceJPY": 2580000,
-      "priceRUB": 1488660,
+      "priceRUB": 1483500,
       "features": [
         "AAC"
       ],
@@ -592,10 +592,10 @@
       "condition": "S",
       "transmission": "FAT",
       "fuelType": "Unknown",
-      "color": "ЖЕМЧУЖНЫЙ",
+      "color": "PEARL 2",
       "location": "",
       "auctionDate": "13.05.2025",
-      "auctionLink": "https://auc.idubid.com/aj-0.htm",
+      "auctionLink": "https://auc.idubid.com/aj-2.htm",
       "auctionId": "40004"
     },
     {
@@ -625,14 +625,14 @@
       "auctionId": "80100"
     },
     {
-      "id": "3",
+      "id": "4",
       "brand": "HONDA",
       "model": "VEZEL RV5",
       "year": "2025",
       "mileage": 0,
       "complectation": "e:HEV Z",
       "priceJPY": 2480000,
-      "priceRUB": 1430960,
+      "priceRUB": 1426000,
       "features": [
         "AAC"
       ],
@@ -644,10 +644,10 @@
       "condition": "S",
       "transmission": "FAT",
       "fuelType": "Unknown",
-      "color": "БЕЛЫЙ",
+      "color": "WHITE",
       "location": "",
       "auctionDate": "14.05.2025 [10:58]",
-      "auctionLink": "https://auc.idubid.com/aj-3.htm",
+      "auctionLink": "https://auc.idubid.com/aj-4.htm",
       "auctionId": "36162"
     },
     {
@@ -1063,6 +1063,188 @@
       "auctionDate": "28.04.2025 [13:39]",
       "auctionLink": "https://auc.idubid.com/aj-19.htm",
       "auctionId": "20170"
+    },
+    {
+      "id": "1",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP6",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "Spada",
+      "priceJPY": 2380000,
+      "priceRUB": 1368500,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEyd8h3P0QIbfWKfWo",
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEyd8h3PX1kjOyGktb",
+        "https://8.ajes.com/imgs/2NMnNzzESEjpHp5ncFogSNHDSSWDoUyYxQo1Vp9ApK5vyo"
+      ],
+      "condition": "5",
+      "transmission": "IAT",
+      "fuelType": "Unknown",
+      "color": "BLACK",
+      "location": "",
+      "auctionDate": "13.05.2025",
+      "auctionLink": "https://auc.idubid.com/aj-1.htm",
+      "auctionId": "40156"
+    },
+    {
+      "id": "8",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP8",
+      "year": "2023",
+      "mileage": 0,
+      "complectation": "e:HEV",
+      "priceJPY": 2450000,
+      "priceRUB": 1408750,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/kRTaMW2Crh7KBaVPlbvqognidEEUI41PoqLCPnkToTM7NcNBdDF",
+        "https://8.ajes.com/imgs/kRTaMW2Crh7KBaVPlbvqognidEEUI41PoqLCPnkTAN7kRzYEjzw",
+        "https://8.ajes.com/imgs/kRTaMW2Crh82yCXNPSMqOEipF96uAKJ9iKruOO3HwDrGj6fsHt1"
+      ],
+      "condition": "4",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "BLACK",
+      "location": "",
+      "auctionDate": "01.05.2025 [12:33]",
+      "auctionLink": "https://auc.idubid.com/aj-8.htm",
+      "auctionId": "7107"
+    },
+    {
+      "id": "12",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP7",
+      "year": "2022",
+      "mileage": 0,
+      "complectation": "Spada 4WD",
+      "priceJPY": 2450000,
+      "priceRUB": 1408750,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEydoz0sJrvKtY8wAu",
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEydoz0twB8T3A4B8h",
+        "https://8.ajes.com/imgs/2NMnNzzESEjpHp5ncFogSNHDSSWDoUyYP9uEuZW0DLrMcu"
+      ],
+      "condition": "4.5",
+      "transmission": "IAT",
+      "fuelType": "Unknown",
+      "color": "WHITE",
+      "location": "",
+      "auctionDate": "13.05.2025",
+      "auctionLink": "https://auc.idubid.com/aj-12.htm",
+      "auctionId": "30467"
+    },
+    {
+      "id": "18",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP3",
+      "year": "2022",
+      "mileage": 0,
+      "complectation": "Spada Cool Spirit Honda Sensing",
+      "priceJPY": 1950000,
+      "priceRUB": 1121250,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/2BwRi5sJSyHrqHLn2D3pSkkQLjOhFpoedBqbzGwUTNw0LuyX3VN",
+        "https://8.ajes.com/imgs/2BwRi5sJSyHrqHLn2D3pSkkQLjOhFpoedBqbzGwUTNw0OibY2GO",
+        "https://8.ajes.com/imgs/2BwRi5sJSyHsJAnFZdKEdqWD2JV78sKIhW1N82F4wFw58iOrizG"
+      ],
+      "condition": "4.5",
+      "transmission": "IAT",
+      "fuelType": "Unknown",
+      "color": "WHITE",
+      "location": "",
+      "auctionDate": "30.04.2025 [11:41]",
+      "auctionLink": "https://auc.idubid.com/aj-18.htm",
+      "auctionId": "30203"
+    },
+    {
+      "id": "19",
+      "brand": "HONDA",
+      "model": "STEP WAGON RP6",
+      "year": "2022",
+      "mileage": 0,
+      "complectation": "ｴｱ",
+      "priceJPY": 2250000,
+      "priceRUB": 1293750,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/2BwRi5sJSyHrqHLn2D3pSkkQLjOhFpoedBqbzGwUTNs7mOfE7XT",
+        "https://8.ajes.com/imgs/2BwRi5sJSyHrqHLn2D3pSkkQLjOhFpoedBqbzGwUTNs7pBSF6IU",
+        "https://8.ajes.com/imgs/2BwRi5sJSyHsJAnFZdKEdqWD2JV78sKIhW1N82F4wFs1ICv9mBM"
+      ],
+      "condition": "4.5",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "BLACK",
+      "location": "",
+      "auctionDate": "30.04.2025 [12:16]",
+      "auctionLink": "https://auc.idubid.com/aj-19.htm",
+      "auctionId": "30274"
+    },
+    {
+      "id": "5",
+      "brand": "HONDA",
+      "model": "VEZEL RV5",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "eHEV_Z",
+      "priceJPY": 2200000,
+      "priceRUB": 1265000,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/dowTzxJ6TvewD7UKkhRNOr1WjS9k1GrtGRHsOmAOIJyjPpFi",
+        "https://8.ajes.com/imgs/dowTzxJ6TvewD7UKkhRNOr1WjS9k1GrtGRHsOmAOIMlWQoqj",
+        "https://8.ajes.com/imgs/dowTzxJ6TveHw2wqctnrkrv8HFK0euTK6mu02ciOyz6EpVn4"
+      ],
+      "condition": "S",
+      "transmission": "AT",
+      "fuelType": "Unknown",
+      "color": "WHITE",
+      "location": "",
+      "auctionDate": "01.05.2025 [11:13]",
+      "auctionLink": "https://auc.idubid.com/aj-5.htm",
+      "auctionId": "30096"
+    },
+    {
+      "id": "9",
+      "brand": "HONDA",
+      "model": "VEZEL RV5",
+      "year": "2025",
+      "mileage": 0,
+      "complectation": "e:HEV Z",
+      "priceJPY": 2340000,
+      "priceRUB": 1345500,
+      "features": [
+        "AAC"
+      ],
+      "images": [
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEycSs6ZvX90HQUPE7",
+        "https://8.ajes.com/imgs/2NMnNzzESEjoezeY21jdL8RGj87rQEycSs71j7KigsQUaT",
+        "https://8.ajes.com/imgs/2NMnNzzESEjpHp5ncFogSNHDSSWDoUyYj2rbhvyyREf6g7"
+      ],
+      "condition": "S",
+      "transmission": "FAT",
+      "fuelType": "Unknown",
+      "color": "WHITE",
+      "location": "",
+      "auctionDate": "13.05.2025",
+      "auctionLink": "https://auc.idubid.com/aj-9.htm",
+      "auctionId": "30447"
     }
   ]
 }
